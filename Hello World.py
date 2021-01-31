@@ -1,6 +1,8 @@
 def main():
 
     print("Hello World!")
+    print("Hi World!")
+    print("Sup World!")
     print("How are you?")
     print("Good, thanks")
 

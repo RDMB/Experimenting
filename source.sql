@@ -1,0 +1,1 @@
+SELECT * FROM amnova_prototype.company
